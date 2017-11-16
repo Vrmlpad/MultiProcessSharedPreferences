@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.dcloud.sharedpreferences" >
+    <application >
+        <provider
+            android:name="lib.multiprocess.sharedpreferences.HostContentProvider"
+            android:authorities="lib.multiprocess.sharedpreferences.hostcontentprovider"
+            android:exported="false" />
+    </application>
+</manifest>

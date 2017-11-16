@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MultiProcessSharedPreferences</string>
+    <string name="title">标题:</string>
+    <string name="jumpToChildProcessActivity">跳转到子进程Activity</string>
+    <string name="key">Key&#160;&#160;&#160;:</string>
+    <string name="value">Value:</string>
+    <string name="commit">提交</string>
+    <string name="query">查询</string>
+    <string name="remove">移除</string>
+    <string name="commitSetString">提交SetString</string>
+    <string name="querySetString">查询SetString</string>
+    <string name="queryAll">查询所有</string>
+    <string name="clearAll">清除所有</string>
+
+    <string name="success">成功</string>
+</resources>
